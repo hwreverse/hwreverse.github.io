@@ -6,3 +6,44 @@ title:              "The Pocket Computer Electronics Stash"
 description:        "HWR0's Github"
 author_name:        "HWReverse" # change this to your name
 logo_url:           https://avatars2.githubusercontent.com/u/49004465?v=4
+
+# Site Settings
+url:                https://hwreverse.github.io # main url
+baseurl:            /jekyll
+permalink:          /:title # Post permalink
+timezone:           Europe/Moscow # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        blue
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
+
