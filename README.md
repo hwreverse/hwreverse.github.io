@@ -1,12 +1,12 @@
-## My Mission
+## My mission for Pocket Computers
 
-To preserve knowledge about [Vintage Pocket Computers](https://github.com/hwreverse/PocketComputerTools/blob/master/img/collection.jpg/) who ae not fabricated any more as long as possible by collecting every bit of technical information and creating open-source electronics to interface yourself with these devices / create hardware extensions to them with maximum ease, so that more people are inclined to still work with them. 
+To preserve knowledge about [Vintage Pocket Computers](https://github.com/hwreverse/PocketComputerTools/blob/master/img/collection.jpg/) who are not fabricated any more as long as possible by collecting every bit of technical information and creating open-source electronics to interface yourself with these devices / create hardware extensions to them with maximum ease, so that more people are inclined to still work with them. 
 
 The more people still use them, the farther away we move the date of their complete extinction from the minds!
 
 ## What you can find here
 
-I publish various [KiCad](https://kicad.org/) Projects of electronic circuits & their PCBs for working with Pocket Computers. Sometimes, Projects are even ready to be produced & assembled by a PCBA service of your choosing. For these small and cheap project, I tend to work with [JLCPCB's](https://jlcpcb.com/) PCBA Service. Try it out !
+I publish various [KiCad](https://kicad.org/) Projects of electronic circuits & their PCBs for working with Pocket Computers. Sometimes, projects are even ready to be produced & assembled by a PCBA service of your choosing. For these small and cheap project, I tend to work with [JLCPCB's](https://jlcpcb.com/) PCBA Service. Try it out !
 
 I update these Repositories in my small leisure time, as soon as I test **AND** validate a new design.
 
