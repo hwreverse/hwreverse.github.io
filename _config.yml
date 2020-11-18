@@ -1,1 +1,8 @@
 remote_theme: heiswayi/the-plain
+
+  
+# Site Info
+title:              "The Pocket Computer Electronics Stash"
+description:        "HWR0's Github"
+author_name:        "HWReverse" # change this to your name
+logo_url:           https://avatars2.githubusercontent.com/u/49004465?v=4
