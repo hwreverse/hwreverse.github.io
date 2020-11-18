@@ -10,21 +10,15 @@ I publish various [KiCad](https://kicad.org/) Projects of electronic circuits & 
 
 I update these Repositories in my small leisure time, as soon as I test **AND** validate a new design.
 
-### USB-to-Serial Interfaces to connect Pocket Computers to your PC :
+### USB-to-Serial Interfaces to connect Pocket Computers to your PC : [hwreverse / PokeConSerial](https://github.com/hwreverse/PokeConSerial)
 
-- [hwreverse / PokeConSerial](https://github.com/hwreverse/PokeConSerial)
+### Breakout & Debug Boards : [hwreverse / PokeconDebug](https://github.com/hwreverse/PokeconDebug)
 
-### Breakout & Debug Boards :
+### Sound Cards : [hwreverse / PokeConSound](https://github.com/hwreverse/PokeConSound)
 
-- [hwreverse / PokeconDebug](https://github.com/hwreverse/PokeconDebug)
+### Differents bits of code :
 
-### Sound Cards :
-
-- [hwreverse / PokeConSound](https://github.com/hwreverse/PokeConSound)
-
-### Differents bits of code 
-
-- BMP to HEX Converter, Grayscale to ASM Code Converter (to show Bitmaps in B/W or Grayscale on a Pocket Computer Screen)<BR> [hwreverse / PocketComputerTools](https://github.com/hwreverse/PocketComputerTools)
+BMP to HEX Converter, Grayscale to ASM Code Converter (to show Bitmaps in B/W or Grayscale on a Pocket Computer Screen)<BR> [hwreverse / PocketComputerTools](https://github.com/hwreverse/PocketComputerTools)
 
 ### What Pocket Computers are we talking about ?
 
