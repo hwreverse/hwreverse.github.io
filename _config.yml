@@ -1,3 +1,6 @@
+remote_theme: hwreverse/jekyll
+
+
 # Site Info
 title:              "hwr0_jekyll"
 description:        "HWR0's Jekyll theme"
@@ -5,7 +8,7 @@ author_name:        "hwreverse" # change this to your name
 logo_url:           https://avatars2.githubusercontent.com/u/49004465?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://hwreverse.github.io # main url
+
 timezone:           Europe/Moscow # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
