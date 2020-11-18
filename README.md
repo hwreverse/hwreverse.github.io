@@ -1,17 +1,6 @@
-# HWR0
-
-aka **hwreverse** aka *HardWare Release Zero* (= Prototype)
-
-Lecturer / Research fellow at BMSTU - Baumann Moscow State Technical University
-
-Big Fan of **Vintage Basic Pocket Computer ポケコン** (=pokekon) from the 80ties and 90ties (Sharp, Casio,...)
-
-My [Collection](https://github.com/hwreverse/PocketComputerTools/blob/master/img/collection.jpg/). is quite extensive, because there are nothing better to teach young minds proper low resource programming as well as Processor Architecture when you have just 1k-32k RAM Program memory free !
-Z80 Computers with SRAM had a fully static design, interrupt them and read out every state of every pin in the system. Ideal for teaching processors.
-
 ## My Mission
 
-To preserve knowledge about Vintage Pocket Computers who ae not fabricated any more as long as possible by collecting every bit of technical information and creating open-source electronics to interface yourself with these devices / create hardware extensions to them with maximum ease, so that more people are inclined to still work with them. 
+To preserve knowledge about [Vintage Pocket Computers](https://github.com/hwreverse/PocketComputerTools/blob/master/img/collection.jpg/) who ae not fabricated any more as long as possible by collecting every bit of technical information and creating open-source electronics to interface yourself with these devices / create hardware extensions to them with maximum ease, so that more people are inclined to still work with them. 
 
 The more people still use them, the farther away we move the date of their complete extinction from the minds!
 
