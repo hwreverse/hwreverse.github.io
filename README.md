@@ -36,3 +36,16 @@ I update these Repositories in my small leisure time, as soon as I test **AND** 
 ### Differents bits of code 
 
 - BMP to HEX Converter, Grayscale to ASM Code Converter (to show Bitmaps in B/W or Grayscale on a Pocket Computer Screen)<BR> [hwreverse / PocketComputerTools](https://github.com/hwreverse/PocketComputerTools)
+
+### What Pocket Computers are we talking about ?
+
+- **Sharp PC-G800** * Series = G850V /VS / S 
+- **Sharp PC-E500** Series = E500 /E550 / E600
+- **Sharp PC-1600/K** of course
+
+- **Casio PB-1000** /C / PB-2000C / AI-1000
+- **Casio FX-800** * Series (VX-1 to VX-4)
+- **Casio FX-890P aka Z / Z-1** (the first 16 bit from Casio !)
+
+- **TRS-80 Model 100 + Model 200** - While not a *"Pocket"* Computer, still a great system to program and to build extensions for (it is really easy)
+
